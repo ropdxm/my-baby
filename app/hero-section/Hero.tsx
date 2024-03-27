@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1xPMv7KzsGnAPYYYjLFxbaxhzfhHqZgoN/view?usp=sharing"
+            href="https://drive.google.com/file/d/17cmXbhqFFhVWgnMqV0BM5pO4WNWDsJn8/view?usp=sharing"
             target="_blank"
             aria-label="View Resume"
           >
@@ -45,7 +45,7 @@ const Hero = () => {
               GH
             </motion.p>
           </Link>
-          <Link
+          {/* <Link
             href="https://twitter.com/zhanbyrshynd"
             target="_blank"
             aria-label="View Twitter Profile"
@@ -56,7 +56,7 @@ const Hero = () => {
             >
               TW
             </motion.p>
-          </Link>
+          </Link> */}
         </div>
       </div>
 

@@ -68,7 +68,7 @@ const Contact = () => {
                 charSpace={"mr-[0.01em]"}
               />
             </Link>
-            <Link
+            {/* <Link
               href="https://www.instagram.com/zhanbyrshyn/"
               target="_blank"
               aria-label="View Instagram Profile"
@@ -95,7 +95,7 @@ const Contact = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>
