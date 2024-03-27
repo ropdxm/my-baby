@@ -38,7 +38,7 @@ export const devProjects = [
     description:
       "Programmer at Mavericks FTC team. Finalist of FIRST Central Asia Championship",
     technologies: ["React", "Parallax", "CSS"],
-    github: "https://github.com/ropdxm/baloons-animated-site",
+    github: "https://github.com/ropdxm/mavericks-web.git",
     demo: "https://mavericks-ftc.netlify.app/",
     image: require(".//../../public/projects/mavericks.png"),
     available: true,
