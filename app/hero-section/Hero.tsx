@@ -94,7 +94,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-          Ambitious, forward-thinking, and disciplined HS student
+          Ambitious, forward-thinking, and disciplined college student
           </p>
         </motion.div>
 
@@ -104,12 +104,12 @@ const Hero = () => {
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
             Focused on making a positive impact, currently studying at <Link
-              href="https://hbsh.nis.edu.kz/"
+              href="https://nu.edu.kz/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
               aria-label="Nazarbayev Intellectual School"
             >
-              NIS
+              NU
             </Link>, Kazakhstan
           </p>
         </motion.div>
