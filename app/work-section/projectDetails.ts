@@ -28,7 +28,7 @@ export const devProjects = [
       "🌊New Wave is an organization dedicated to environmental protection in Kazakhstan. We have been working in 18 major cities of the country for 4 years, 100+ project partners, Dedicated team with 2000+ volunteers",
     technologies: ["React", "Typescript", "Axios"],
     github: "https://github.com/ropdxm/new-wave",
-    demo: "https://new-wave-eco.netlify.app/",
+    demo: "https://new-wave-eco.vercel.app/",
     image: require(".//../../public/projects/newwave.png"),
     available: true,
   },
@@ -53,16 +53,5 @@ export const devProjects = [
     demo: "https://clutchify-theta.vercel.app/",
     image: require(".//../../public/projects/clutch.png"),
     available: true,
-  },
-  {
-    id: 4,
-    name: "Ippodrom",
-    description:
-      "Ippodrom is a website that lets users explore the horse-riding 'Ippodrom' business. Users can rent horse, create new accounts, and discover contact details. Currently, server is down due to maintanence and business reasons.",
-    technologies: ["React", "Vite", "Typescript"],
-    github: "https://github.com/ropdxm/ippodrom",
-    demo: "https://ippodrom.netlify.app/",
-    image: require(".//../../public/projects/ippodrom.png"),
-    available: true,
-  },
+  }
 ];
