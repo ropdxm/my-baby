@@ -4,7 +4,6 @@ import { monaSans } from "../fonts/monaSans";
 import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
-import profile from "../../public/profile.webp";
 
 const Hero = () => {
   return (
@@ -19,7 +18,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/17cmXbhqFFhVWgnMqV0BM5pO4WNWDsJn8/view?usp=sharing"
+            href="https://drive.google.com/file/d/1YPB0gaA_V_ktDkxSvWahg7hS460McR0o/view?usp=sharing"
             target="_blank"
             aria-label="View Resume"
           >
