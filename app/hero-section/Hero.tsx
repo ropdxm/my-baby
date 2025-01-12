@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1YPB0gaA_V_ktDkxSvWahg7hS460McR0o/view?usp=sharing"
+            href="https://www.canva.com/design/DAF3gEgx_II/HMP0bjSE-AxFTogSqjXtfA/edit?utm_content=DAF3gEgx_II&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
             target="_blank"
             aria-label="View Resume"
           >
@@ -44,18 +44,18 @@ const Hero = () => {
               GH
             </motion.p>
           </Link>
-          {/* <Link
-            href="https://twitter.com/zhanbyrshynd"
+          <Link
+            href="https://www.linkedin.com/in/dulat-zhanbyrshyn-66658731b/"
             target="_blank"
-            aria-label="View Twitter Profile"
+            aria-label="View Linkedin Profile"
           >
             <motion.p
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              TW
+              IN
             </motion.p>
-          </Link> */}
+          </Link>
         </div>
       </div>
 

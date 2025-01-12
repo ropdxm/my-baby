@@ -44,7 +44,7 @@ const Contact = () => {
               }
             />
             <Link
-              href="mailto:ropdxm@gmail.com"
+              href="mailto:dulat.zhanbyrshyn@nu.edu.kz"
               target="_blank"
               aria-label="Send me an email"
               className="mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[170px] lg:mt-4"
